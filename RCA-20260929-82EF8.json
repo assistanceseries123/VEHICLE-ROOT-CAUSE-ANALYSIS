@@ -1,0 +1,123 @@
+{
+  "report_id": "RCA-20260929-82EF8",
+  "report_date": "2026-09-29",
+  "engineer": "Aklesh",
+  "designation": "Service Engineer",
+  "branch": "Butwal",
+  "customer": "Surmati Tharu magar",
+  "registration": "LUPRA01001KHA0987",
+  "vin": "MB1PREHDYT8975",
+  "model": "12 M BS6 BUS",
+  "engine": "H-SERIES",
+  "emission": "BS6",
+  "mileage": "86777",
+  "engine_hours": "87",
+  "job_card": "BUTW017383",
+  "application": "PASSENGER",
+  "operating_condition": "LOADED",
+  "failure_reported": "ENGINE OVERHEATING",
+  "failure_observed": "CLUTCH FAN NOT WORKING",
+  "symptom_duration": "ONCE",
+  "occurrence": "One-time",
+  "warning_lamp": "NO",
+  "dtc_initial": "GOOD",
+  "severity": "Medium",
+  "system": "Engine",
+  "first_principle": "DUE TO CLUTCH FAN NOT WORKING",
+  "checks": [
+    {
+      "Check": "Visual inspection",
+      "Expected": "",
+      "Actual": "",
+      "Result": ""
+    },
+    {
+      "Check": "Electrical supply / ground",
+      "Expected": "",
+      "Actual": "",
+      "Result": ""
+    },
+    {
+      "Check": "Sensor / actuator signal",
+      "Expected": "",
+      "Actual": "",
+      "Result": ""
+    },
+    {
+      "Check": "Pressure / flow",
+      "Expected": "",
+      "Actual": "",
+      "Result": ""
+    },
+    {
+      "Check": "Mechanical condition",
+      "Expected": "",
+      "Actual": "",
+      "Result": ""
+    },
+    {
+      "Check": "Scan tool / DTC",
+      "Expected": "",
+      "Actual": "",
+      "Result": ""
+    }
+  ],
+  "dtcs": [
+    {
+      "DTC": "",
+      "Description": "",
+      "Live Data / Condition": "",
+      "Finding": ""
+    },
+    {
+      "DTC": null,
+      "Description": null,
+      "Live Data / Condition": null,
+      "Finding": null
+    }
+  ],
+  "measurements": [
+    {
+      "Parameter": "",
+      "Unit": "",
+      "Expected / Specification": "",
+      "Measured Value": "",
+      "Assessment": ""
+    },
+    {
+      "Parameter": null,
+      "Unit": null,
+      "Expected / Specification": null,
+      "Measured Value": null,
+      "Assessment": null
+    },
+    {
+      "Parameter": null,
+      "Unit": null,
+      "Expected / Specification": null,
+      "Measured Value": null,
+      "Assessment": null
+    }
+  ],
+  "diagnostic_findings": "",
+  "suspected_causes": "",
+  "why": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "failure_mode": "",
+  "root_cause": "",
+  "root_category": "Manufacturing / Material",
+  "root_confidence": "Confirmed by evidence",
+  "corrective": "",
+  "preventive": "",
+  "verification": "",
+  "replaced_parts": "",
+  "labour": "",
+  "warranty": "Not applicable",
+  "warranty_justification": "",
+  "supporting_notes": ""
+}
